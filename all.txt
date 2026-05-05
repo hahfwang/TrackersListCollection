@@ -16,11 +16,17 @@ http://bt2.archive.org:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
+
+http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
+
+http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw:80/announce
 
@@ -35,6 +41,8 @@ http://tracker.dler.org:6969/announce
 http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
@@ -86,6 +94,8 @@ https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.kuroy.me:443/announce
 
+https://tracker.lenition.de:443/announce
+
 https://tracker.manager.v6.navy:443/announce
 
 https://tracker.moeblog.cn:443/announce
@@ -95,6 +105,8 @@ https://tracker.nekomi.cn:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
+
+https://tracker.samcze.pl:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -134,6 +146,8 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
+udp://obey.torrentonline.cc:42069/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.ftorrent.com:443/announce
@@ -151,8 +165,6 @@ udp://retracker.hotplug.ru:2710/announce
 udp://seedpeer.net:6969/announce
 
 udp://speedtest.iperson.xyz:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
